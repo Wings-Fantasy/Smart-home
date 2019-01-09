@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aims">
+        <item>灯1</item>
+        <item>灯2</item>
+        <item>灯3</item>
+        <item>灯4</item>
+        <item>灯5</item>
+    </string-array>
+</resources>

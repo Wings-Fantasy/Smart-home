@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">智能家居</string>
+    <string name="LinkServer">正在链接服务器，请稍后 · · ·</string>
+    <string name="ServerError">请求服务器失败，请检查网络链接</string>
+    <string name="ServerLinkError">与服务器断开链接，请稍后重试</string>
+    <string name="ServerOK">服务器连接成功！</string>
+    <string name="SoftwareError">软件内部错误！</string>
+    <string name="HomeOnline">被控端在线</string>
+    <string name="HomeOffline">被控端已离线</string>
+    <string name="aimsTip">请选择需要控制的电器：</string>
+    <string name="resultTip">开始控制您的电器：</string>
+    <string name="on">开</string>
+    <string name="off">关</string>
+    <string name="setting">设置</string>
+</resources>
